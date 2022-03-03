@@ -1,0 +1,8 @@
+D:\Szalai István Szoftver Tervezés és Fejlesztés\SZTF2\04-KivetelKezeles\04-KivetelKezeles\bin\Debug\04-KivetelKezeles.exe.config
+D:\Szalai István Szoftver Tervezés és Fejlesztés\SZTF2\04-KivetelKezeles\04-KivetelKezeles\bin\Debug\04-KivetelKezeles.exe
+D:\Szalai István Szoftver Tervezés és Fejlesztés\SZTF2\04-KivetelKezeles\04-KivetelKezeles\bin\Debug\04-KivetelKezeles.pdb
+D:\Szalai István Szoftver Tervezés és Fejlesztés\SZTF2\04-KivetelKezeles\04-KivetelKezeles\obj\Debug\04-KivetelKezeles.csproj.AssemblyReference.cache
+D:\Szalai István Szoftver Tervezés és Fejlesztés\SZTF2\04-KivetelKezeles\04-KivetelKezeles\obj\Debug\04-KivetelKezeles.csproj.SuggestedBindingRedirects.cache
+D:\Szalai István Szoftver Tervezés és Fejlesztés\SZTF2\04-KivetelKezeles\04-KivetelKezeles\obj\Debug\04-KivetelKezeles.csproj.CoreCompileInputs.cache
+D:\Szalai István Szoftver Tervezés és Fejlesztés\SZTF2\04-KivetelKezeles\04-KivetelKezeles\obj\Debug\04-KivetelKezeles.exe
+D:\Szalai István Szoftver Tervezés és Fejlesztés\SZTF2\04-KivetelKezeles\04-KivetelKezeles\obj\Debug\04-KivetelKezeles.pdb
